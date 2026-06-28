@@ -3,6 +3,8 @@
 A professional **Admin Panel Management System** built using **Node.js, Express.js, MongoDB, Mongoose, EJS, and Multer**. This project provides a simple dashboard where an administrator can manage records with complete CRUD (Create, Read, Update, Delete) functionality.
 
 ---
+video explanation:-
+
 
 # 📌 Project Overview
 
