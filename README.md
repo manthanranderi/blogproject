@@ -4,6 +4,7 @@ A professional **Admin Panel Management System** built using **Node.js, Express.
 
 ---
 video explanation:-
+https://drive.google.com/drive/folders/1ztnBHHzJe38mmHLnWZYypkZ4RqBZkQhG?usp=sharing
 
 
 # 📌 Project Overview
