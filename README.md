@@ -208,3 +208,16 @@ Through this project I learned:
 * Email Verification
 
 ---
+
+screenshot:-
+dashbord:-
+<img width="1916" height="871" alt="Screenshot 2026-06-29 115447" src="https://github.com/user-attachments/assets/bcaba175-87c6-4e8f-b965-0db94a1408ab" />
+
+add admin:-
+<img width="957" height="407" alt="Screenshot 2026-06-29 115502" src="https://github.com/user-attachments/assets/36260068-2d71-4907-a023-e51967159797" />
+
+view admin:-
+<img width="1905" height="252" alt="Screenshot 2026-06-29 120031" src="https://github.com/user-attachments/assets/36b29982-a40f-4fed-b627-303d6e345eaa" />
+
+
+
